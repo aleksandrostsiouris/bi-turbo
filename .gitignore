@@ -1,0 +1,5 @@
+.deployment
+.vscode
+
+node_modules
+yarn.lock
